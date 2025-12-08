@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8A4117-8196-4288-9F6D-277425560645}|Q6\\Q6.vcxproj|D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q6\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD8A4117-8196-4288-9F6D-277425560645}|Q6\\Q6.vcxproj|solutionrelative:Q6\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8894A51-33FC-45C7-9A9D-AA8FA52B89E5}|Q5\\Q5.vcxproj|D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q5\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8894A51-33FC-45C7-9A9D-AA8FA52B89E5}|Q5\\Q5.vcxproj|solutionrelative:Q5\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9D117E-1830-4976-91A0-BA20D631CF28}|Q4\\Q4.vcxproj|D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q4\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C9D117E-1830-4976-91A0-BA20D631CF28}|Q4\\Q4.vcxproj|solutionrelative:Q4\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAC0FF5-8C45-4FB5-B4F6-10D6A6B6F2CB}|Q3\\Q3.vcxproj|D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAC0FF5-8C45-4FB5-B4F6-10D6A6B6F2CB}|Q3\\Q3.vcxproj|solutionrelative:Q3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C11D979E-2554-4F44-B1A5-11A75720EBAA}|Q2\\Q2.vcxproj|D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C11D979E-2554-4F44-B1A5-11A75720EBAA}|Q2\\Q2.vcxproj|solutionrelative:Q2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE20152-4E0E-41F8-9ADF-E6D1AC8E2847}|Q1\\Q1.vcxproj|D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BE20152-4E0E-41F8-9ADF-E6D1AC8E2847}|Q1\\Q1.vcxproj|solutionrelative:Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q6\\Main.cpp",
+              "RelativeDocumentMoniker": "Q6\\Main.cpp",
+              "ToolTip": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q6\\Main.cpp",
+              "RelativeToolTip": "Q6\\Main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T17:38:53.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q5\\Main.cpp",
+              "RelativeDocumentMoniker": "Q5\\Main.cpp",
+              "ToolTip": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q5\\Main.cpp",
+              "RelativeToolTip": "Q5\\Main.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T17:31:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q4\\Main.cpp",
+              "RelativeDocumentMoniker": "Q4\\Main.cpp",
+              "ToolTip": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q4\\Main.cpp",
+              "RelativeToolTip": "Q4\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T17:27:10.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q3\\Main.cpp",
+              "RelativeDocumentMoniker": "Q3\\Main.cpp",
+              "ToolTip": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q3\\Main.cpp",
+              "RelativeToolTip": "Q3\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T17:01:48.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q2\\Main.cpp",
+              "RelativeDocumentMoniker": "Q2\\Main.cpp",
+              "ToolTip": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q2\\Main.cpp",
+              "RelativeToolTip": "Q2\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T16:30:37.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q1\\Main.cpp",
+              "RelativeDocumentMoniker": "Q1\\Main.cpp",
+              "ToolTip": "D:\\TFS assignments\\VGP122 - programming fund. I\\VGP122_L03_Al-Malki_Wael\\VGP122-PF1-LAB3-TEMPLATE\\Q1\\Main.cpp",
+              "RelativeToolTip": "Q1\\Main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T16:03:41.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
