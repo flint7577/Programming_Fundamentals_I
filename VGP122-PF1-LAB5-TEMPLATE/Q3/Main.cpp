@@ -8,5 +8,57 @@ annualInterestRate to a new value. Write a driver program to test class SavingsA
 Instantiate two different objects of class SavingsAccount, saver1 and saver2, with balances of
 $2000.00 and $3000.00, respectively. Set the annualInterestRate to 3 percent. Then calculate the
 monthly interest and print the new balances for each of the savers. Then set the
-annualInterestRate to 4 percent, calculate the next month’s interest and print the new balances for
+annualInterestRate to 4 percent, calculate the next monthï¿½s interest and print the new balances for
 each of the savers. */
+
+#include <iostream>
+using namespace std;
+
+class SavingsAccount {
+private:
+    static double annualInterestRate;
+    double savingsBalance;
+
+public:
+    SavingsAccount(double balance) {
+        savingsBalance = balance;
+    }
+
+    void calculateMonthlyInterest() {
+        savingsBalance += savingsBalance * (annualInterestRate / 12);
+    }
+
+    static void modifyInterestRate(double rate) {
+        annualInterestRate = rate;
+    }
+
+    double getBalance() {
+        return savingsBalance;
+    }
+};
+
+double SavingsAccount::annualInterestRate = 0.0;
+
+int main() {
+
+    SavingsAccount saver1(2000.00);
+    SavingsAccount saver2(3000.00);
+
+    SavingsAccount::modifyInterestRate(0.03);
+
+    saver1.calculateMonthlyInterest();
+    saver2.calculateMonthlyInterest();
+
+    cout << saver1.getBalance() << endl;
+    cout << saver2.getBalance() << endl;
+
+    SavingsAccount::modifyInterestRate(0.04);
+
+    saver1.calculateMonthlyInterest();
+    saver2.calculateMonthlyInterest();
+
+    cout << saver1.getBalance() << endl;
+    cout << saver2.getBalance() << endl;
+
+    return 0;
+}
