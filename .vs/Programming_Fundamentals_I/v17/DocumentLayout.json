@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\TFS assignments\\Programming_Fundamentals_I\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TFS assignments\\Programming_Fundamentals_I\\VGP122-PF1-LAB7-TEMPLATE\\Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VGP122-PF1-LAB7-TEMPLATE\\Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TFS assignments\\Programming_Fundamentals_I\\BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TFS assignments\\Programming_Fundamentals_I\\BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelScene.h",
+              "DocumentMoniker": "D:\\TFS assignments\\Programming_Fundamentals_I\\BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.h",
+              "RelativeDocumentMoniker": "BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.h",
+              "ToolTip": "D:\\TFS assignments\\Programming_Fundamentals_I\\BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.h",
+              "RelativeToolTip": "BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-22T06:22:54.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "D:\\TFS assignments\\Programming_Fundamentals_I\\VGP122-PF1-LAB7-TEMPLATE\\Q1\\Main.cpp",
-              "RelativeDocumentMoniker": "VGP122-PF1-LAB7-TEMPLATE\\Q1\\Main.cpp",
-              "ToolTip": "D:\\TFS assignments\\Programming_Fundamentals_I\\VGP122-PF1-LAB7-TEMPLATE\\Q1\\Main.cpp",
-              "RelativeToolTip": "VGP122-PF1-LAB7-TEMPLATE\\Q1\\Main.cpp",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCEAAAAbAAAAAAAAAA==",
+              "Title": "LevelScene.cpp",
+              "DocumentMoniker": "D:\\TFS assignments\\Programming_Fundamentals_I\\BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.cpp",
+              "RelativeDocumentMoniker": "BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.cpp",
+              "ToolTip": "D:\\TFS assignments\\Programming_Fundamentals_I\\BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.cpp",
+              "RelativeToolTip": "BLACKJACK-TEMPLATE\\BLACKJACK-TEMPLATE\\LevelScene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-22T05:09:36.125Z",
+              "WhenOpened": "2025-12-22T06:21:01.106Z",
               "EditorCaption": ""
             }
           ]
