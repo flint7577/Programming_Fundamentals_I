@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-blackjack_Main",
+      "appliesTo": "VGP122_A01_Al-Malki_Wael/blackjack_Main.cpp",
+      "type": "launch"
+    }
+  ]
+}
